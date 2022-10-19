@@ -1,0 +1,15 @@
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/bin/Debug/net6.0/CMartinezGreaterThanLessThan
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/bin/Debug/net6.0/CMartinezGreaterThanLessThan.deps.json
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/bin/Debug/net6.0/CMartinezGreaterThanLessThan.runtimeconfig.json
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/bin/Debug/net6.0/CMartinezGreaterThanLessThan.dll
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/bin/Debug/net6.0/CMartinezGreaterThanLessThan.pdb
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/obj/Debug/net6.0/CMartinezGreaterThanLessThan.csproj.AssemblyReference.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/obj/Debug/net6.0/CMartinezGreaterThanLessThan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/obj/Debug/net6.0/CMartinezGreaterThanLessThan.AssemblyInfoInputs.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/obj/Debug/net6.0/CMartinezGreaterThanLessThan.AssemblyInfo.cs
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/obj/Debug/net6.0/CMartinezGreaterThanLessThan.csproj.CoreCompileInputs.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/obj/Debug/net6.0/CMartinezGreaterThanLessThan.dll
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/obj/Debug/net6.0/refint/CMartinezGreaterThanLessThan.dll
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/obj/Debug/net6.0/CMartinezGreaterThanLessThan.pdb
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/obj/Debug/net6.0/CMartinezGreaterThanLessThan.genruntimeconfig.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/obj/Debug/net6.0/ref/CMartinezGreaterThanLessThan.dll
