@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/CMartinezGreaterThanLessThan.csproj": {}
+    "/Users/manuel/Documents/GitRepository/CMartinezGreaterThanLessThan/CMartinezGreaterThanLessThan.csproj": {}
   },
   "projects": {
-    "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/CMartinezGreaterThanLessThan.csproj": {
+    "/Users/manuel/Documents/GitRepository/CMartinezGreaterThanLessThan/CMartinezGreaterThanLessThan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/CMartinezGreaterThanLessThan.csproj",
+        "projectUniqueName": "/Users/manuel/Documents/GitRepository/CMartinezGreaterThanLessThan/CMartinezGreaterThanLessThan.csproj",
         "projectName": "CMartinezGreaterThanLessThan",
-        "projectPath": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/CMartinezGreaterThanLessThan.csproj",
-        "packagesPath": "/Users/chrismartinez/.nuget/packages/",
-        "outputPath": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGreaterThanLessThan/obj/",
+        "projectPath": "/Users/manuel/Documents/GitRepository/CMartinezGreaterThanLessThan/CMartinezGreaterThanLessThan.csproj",
+        "packagesPath": "/Users/manuel/.nuget/packages/",
+        "outputPath": "/Users/manuel/Documents/GitRepository/CMartinezGreaterThanLessThan/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/chrismartinez/.nuget/NuGet/NuGet.Config"
+          "/Users/manuel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
